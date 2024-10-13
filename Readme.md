@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="/img/mundo_internet.jpg" alt="img internet" width="1000" height="300px">
+  <img src="https://www.prysmian.com/sites/www.prysmian.com/files/2024-01/internet-banner.png" width="1000" height="300px">
 </h1>
 
 
@@ -55,9 +55,6 @@ Em nosso arquivo, temos as seguintes colunas:
     <li>Gráfico de pizza sobre a proporção de domicílios com e sem internet no Brasil.</li>
     <li>Dashboard onde pode-se selecionar um estado, visualizar os gráficos e seus rótulos mencionados acima, como mostram as imagens abaixo.</li>
  </ul>
-
-<img src="/img/Captura de tela 2024-10-12 124226.png" alt="dashboard1" width="300" hspace="50">  <img src="/img/Captura de tela 2024-10-12 125037.png" alt="dashboard2" width="300">
-
 
 
 <font face="perpetua"><h2>🌟Algumas análises de acordo com o resultado encontrado:</h2></font>
